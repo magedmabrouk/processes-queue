@@ -1,0 +1,8 @@
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\bin\Release\OS_Test_GUI.exe.config
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\bin\Release\OS_Test_GUI.exe
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\bin\Release\OS_Test_GUI.pdb
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\obj\Release\OS_Test_GUI.Form1.resources
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\obj\Release\OS_Test_GUI.Properties.Resources.resources
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\obj\Release\OS_Test_GUI.csproj.GenerateResource.Cache
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\obj\Release\OS_Test_GUI.exe
+C:\Users\maged\Documents\Visual Studio 2012\Projects\OS_Test_GUI\OS_Test_GUI\obj\Release\OS_Test_GUI.pdb
